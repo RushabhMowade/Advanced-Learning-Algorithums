@@ -29,3 +29,8 @@ The purpose of this repository is to:
 - Continuously expand into more advanced ML techniques  
 
 ---
+## 👤 Author
+
+RUSHABH MOWADE  
+Machine Learning & Data Science Enthusiast  
+[LinkedIn](www.linkedin.com/in/rushabhmwd)
