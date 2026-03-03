@@ -10,3 +10,13 @@ The purpose of this repository is to:
 - Improve implementation and experimentation skills  
 
 ---
+
+## 📂 Included Implementations
+
+- Neural Network Digit Classifier  
+- Softmax Implementation in TensorFlow  
+- Coffee Roasting Prediction Model  
+- NumPy-based Model Implementations  
+- Additional advanced algorithms (ongoing)
+
+---
