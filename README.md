@@ -20,3 +20,12 @@ The purpose of this repository is to:
 - Additional advanced algorithms (ongoing)
 
 ---
+
+## 🎯 Objectives
+
+- Build models from scratch to understand internal mechanics  
+- Compare theoretical concepts with practical execution  
+- Maintain clean, modular, and readable code  
+- Continuously expand into more advanced ML techniques  
+
+---
